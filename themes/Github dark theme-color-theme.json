@@ -688,6 +688,8 @@
 				"entity.name.type.class.python",
 				"support.type.exception.python",
 				"meta.class.python",
+				"meta.function-call.python",
+				"meta.function-call",
 			],
 			"settings": {
 				"foreground": "#ffa657"
@@ -698,11 +700,9 @@
 			"scope": [
 				"entity.name.function.python",
 				"punctuation.definition.decorator.python",
-				"meta.function-call.generic.python",
 				"support.type.python",
 				"support.function.magic.python",
 				"support.function.builtin.python",
-				"meta.function-call.generic.python",
 				"entity.name.function.decorator.python",
 				"meta.attribute.python",
 			],
